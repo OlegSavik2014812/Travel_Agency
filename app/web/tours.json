@@ -1,0 +1,71 @@
+[
+  {
+    "id": 32,
+    "country": {
+      "id": "12",
+      "name": "France"
+    },
+    "hotel": {
+      "id": 12,
+      "country": {
+        "id": 12,
+        "name": "France"
+      },
+      "name": "Harrods",
+      "phoneNumber": "123-43-45",
+      "numberOfStars": 5
+    },
+    "imageURI": "http:sdhfbsdukfsf",
+    "date": "2018-12-28",
+    "duration": "12",
+    "type": "HEALING",
+    "description": "Tour de France",
+    "cost": "2000"
+  },
+  {
+    "id": 40,
+    "country": {
+      "id": 14,
+      "name": "Italy"
+    },
+    "hotel": {
+      "id": 14,
+      "country": {
+        "id": 14,
+        "name": "Italy"
+      },
+      "name": "Da Vinchi",
+      "phoneNumber": "123-43-45",
+      "numberOfStars": 4
+    },
+    "imageURI": "http:sdhfbsdukfsf",
+    "date": "2018-12-28",
+    "duration": 12,
+    "type": "HEALING",
+    "description": "....",
+    "cost": 200
+  },
+  {
+    "id": 22,
+    "country": {
+      "id": 42,
+      "name": "Germany"
+    },
+    "hotel": {
+      "id": 42,
+      "country": {
+        "id": 42,
+        "name": "Germany"
+      },
+      "name": "Marriot",
+      "phoneNumber": "123-43-45",
+      "numberOfStars": 3
+    },
+    "imageURI": "http:sdf",
+    "date": "2018-12-28",
+    "duration": 10,
+    "type": "HEALING",
+    "description": "Tour de France",
+    "cost": 1500
+  }
+]

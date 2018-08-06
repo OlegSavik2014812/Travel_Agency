@@ -1,0 +1,11 @@
+/app/.idea/
+/app/travel_agency.iml
+/app/agency/log/
+/app/web/log/
+/app/log/
+/app/agency/target/
+/app/agency/core.iml
+/app/web/target/
+/app/web/web.iml
+.idea/
+
